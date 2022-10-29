@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iggusti
 - 👀 I’m interested in cooking, farming and coding
-- 🌱 I’m currently learning react js framework
+- 🌱 I’m currently learning react.js and next.js framework
 - 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me iggusti@gmail.com
 
