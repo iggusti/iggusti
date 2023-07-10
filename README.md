@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iggusti&label=Profile%20views&color=0e75b6&style=flat" alt="iggusti" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, NextJs**
+- 🌱 I’m currently learning **Angular, ReactJs, NextJs**
 
 - 👨‍💻 All of my projects are available at [https://iggusti.github.io/curriculum-vitae/](https://iggusti.github.io/curriculum-vitae/)
 
