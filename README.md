@@ -1,3 +1,4 @@
+<!-- Header -->
 <div align="center">
 
 # Ilham Gumantung Gusti
@@ -10,33 +11,35 @@
 <img src="https://img.shields.io/badge/based%20in-Bandung%2C%20Indonesia-0e75b6?style=flat-square" alt="location" />
 <img src="https://img.shields.io/badge/open%20to-collaboration-2ea44f?style=flat-square" alt="open to collaboration" />
 
-<a href="https://iggusti.github.io/curriculum-vitae/"><img src="https://img.shields.io/badge/Portfolio%20%2F%20CV-0a66c2?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-<a href="mailto:iggusti@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/iggusti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://instagram.com/ilhamgg"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://iggusti.github.io/curriculum-vitae/"><img src="https://img.shields.io/badge/Portfolio%20%2F%20CV-0a66c2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio / CV" /></a>
+<a href="mailto:iggusti@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/iggusti"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://instagram.com/ilhamgg"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 </div>
 
 ---
 
+<!-- About -->
 ## 👋 About Me
 
 Frontend Developer at **Telkom University, Bandung**. I work on internal applications used daily by campus staff across units — from letter circulation to document and records management.
 
-My main stack is **Angular** and **Next.js**, backed by **Laravel**-era PHP fundamentals from earlier projects. Outside working hours I build small projects to learn new tools: SvelteKit, HTMX, Astro, Electron, and some Python for machine learning coursework.
+My main stack is **Angular** and **Next.js**, built on **Laravel**-era PHP fundamentals from earlier projects. Outside working hours I build small projects to learn new tools: SvelteKit, HTMX, Astro, Electron, and some Python for machine learning coursework.
 
 I care about reusable components, readable TypeScript, and making sure what ships actually works in production.
 
 ---
 
+<!-- Professional work -->
 ## 💼 Professional Work
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="left">
 
-### 🏛️ SOANG
-**Angular · TypeScript**
+**🏛️ SOANG**  
+<sub>Angular · TypeScript</sub>
 
 Redevelopment of a legacy regulation and legal-document (SK) system.
 
@@ -46,10 +49,10 @@ Redevelopment of a legacy regulation and legal-document (SK) system.
 - Resolved animation trigger and state-sync bugs
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="left">
 
-### 📄 PenDok
-**Next.js · MUI · TanStack Query**
+**📄 PenDok**  
+<sub>Next.js · MUI · TanStack Query</sub>
 
 E-Penelusuran Dokumen — a document and records-management system.
 
@@ -59,16 +62,16 @@ E-Penelusuran Dokumen — a document and records-management system.
 - Stack: Next.js, MUI, TanStack Query, Formik
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="left">
 
-### ✉️ BaSO
-**Angular**
+**✉️ BaSO**  
+<sub>Angular</sub>
 
 Surat Online — internal letter circulation application.
 
 - Built the shared `app-letter-filter` component
 - Refactored notification and letter-status helper utilities
-- Diagnosed staging deployment issues: static asset MIME types, cookie/CORS problems
+- Diagnosed staging deployment issues: static asset MIME types, cookie/CORS
 
 </td>
 </tr>
@@ -76,14 +79,15 @@ Surat Online — internal letter circulation application.
 
 ---
 
+<!-- Projects -->
 ## 🚀 Selected Projects
 
 ### 🌐 Full-Stack & Web Applications
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[monthly-budget](https://github.com/iggusti/monthly-budget)** | Family budgeting app with balanced spending, daily tracking, and Firebase Cloud Messaging push notifications | SvelteKit, TS, Firebase |
-| **[senada](https://github.com/iggusti/senada)** | E-commerce project with separate **PHP/Laravel backend** and **React + Vite** frontend in one repo, wired with Docker Compose | Laravel, React, Vite |
+| **[monthly-budget](https://github.com/iggusti/monthly-budget)** | Family budgeting app with balanced spending, daily tracking, and push notifications | SvelteKit, TS, Firebase |
+| **[senada](https://github.com/iggusti/senada)** | E-commerce project with separate Laravel backend and React frontend | Laravel, React, Vite |
 | **[stop-your-work](https://github.com/iggusti/stop-your-work)** | Productivity timer for managing work sessions | SvelteKit, TypeScript |
 | **[Auth-CRUD-Laravel](https://github.com/iggusti/Auth-CRUD-Laravel)** | Authentication with user CRUD management | Laravel, PHP |
 | **[Rental-Mobil](https://github.com/iggusti/Rental-Mobil)** | Car rental management and booking system | PHP, JS, HTML |
@@ -118,14 +122,14 @@ Surat Online — internal letter circulation application.
 | **[Kotlin-Firebase-CRUD](https://github.com/iggusti/Kotlin-Firebase-CRUD)** | Firebase CRUD application | Kotlin, Firebase |
 | **[jaga-tangis](https://github.com/iggusti/jaga-tangis)** | Tear-tracking application for emotional monitoring | JavaScript |
 
-### 🧠 Data & Machine Learning (Coursework)
+### 🧠 Data & Machine Learning <sub>(Coursework)</sub>
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **[Character Recognition — Javanese Script](https://github.com/iggusti/Character-Recognition-Javanese-Script-App)** | Recognizing Javanese script characters from images | Python, TensorFlow |
 | **[InceptionV3 — Pascal VOC 2007](https://github.com/iggusti/InceptionV3---Pascal-VOC-2007)** | Object classification on Pascal VOC 2007 | InceptionV3 |
 | **[obj-detection](https://github.com/iggusti/obj-detection)** | Object detection in the browser with COCO-SSD | TensorFlow.js, React |
-| **[Simple ANN](https://github.com/iggusti/Simple-Artificial-Neural-Network-ANN-)** | Artificial neural network implementation (course assignment) | MATLAB, C++ |
+| **[Simple ANN](https://github.com/iggusti/Simple-Artificial-Neural-Network-ANN-)** | Artificial neural network implementation | MATLAB, C++ |
 | **[Face-Recognition](https://github.com/iggusti/Face-Recognition)** / **[pyFace](https://github.com/iggusti/pyFace)** | Face detection and recognition | Python, OpenCV |
 | **[KNN-IRIS](https://github.com/iggusti/KNN-IRIS)** / **[Linear-Regression-HOUSE](https://github.com/iggusti/Linear-Regression-HOUSE)** | KNN and linear regression exercises | Python, scikit-learn |
 | **[CAR SELECTION SYSTEM (KNN)](https://github.com/iggusti/CAR-SELECTION-SYSTEM-USING-K-NEAREST-NEIGHBOR--KNN--COLLABORATIVE-FILTERING)** | Car recommendation using KNN collaborative filtering | Python |
@@ -133,28 +137,36 @@ Surat Online — internal letter circulation application.
 
 ---
 
+<!-- Tech stack -->
 ## 🧰 Tech Stack
 
 <div align="center">
 
-**Primary (professional work)**
+**Primary — professional work**
 
-<img src="https://skillicons.dev/icons?i=angular,nextjs,ts,js,materialui,tailwind&theme=dark" alt="primary stack" />
+<img src="https://skillicons.dev/icons?i=angular,nextjs,ts,js,materialui,tailwind&theme=dark" alt="Primary stack: Angular, Next.js, TypeScript, JavaScript, MUI, Tailwind" />
+
+<br /><br />
 
 **Also used in projects**
 
-<img src="https://skillicons.dev/icons?i=react,svelte,vue,astro,php,laravel,kotlin,java,python,go&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,svelte,vue,astro,php,laravel,kotlin,java,python,go&theme=dark" alt="Also used: React, Svelte, Vue, Astro, PHP, Laravel, Kotlin, Java, Python, Go" />
 
-<img src="https://skillicons.dev/icons?i=nestjs,spring,nodejs,bun,flask,tensorflow,opencv,mysql,firebase&theme=dark" />
+<br /><br />
+
+<img src="https://skillicons.dev/icons?i=nestjs,spring,nodejs,bun,flask,tensorflow,opencv,mysql,firebase&theme=dark" alt="Backend, data and ML: NestJS, Spring, Node.js, Bun, Flask, TensorFlow, OpenCV, MySQL, Firebase" />
+
+<br /><br />
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,postman,neovim&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,neovim&theme=dark" alt="Tools: Git, GitHub, Postman, Neovim" />
 
 </div>
 
 ---
 
+<!-- Stats -->
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -162,7 +174,11 @@ Surat Online — internal letter circulation application.
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=iggusti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iggusti&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
 
+<br /><br />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=iggusti&theme=tokyonight&hide_border=true" alt="Streak stats" />
+
+<br /><br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=iggusti&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 
@@ -170,6 +186,7 @@ Surat Online — internal letter circulation application.
 
 ---
 
+<!-- Closing -->
 ## 🌱 Beyond Code
 
 Away from the terminal I'm usually **gardening**, **breeding**, or **cooking** — quiet work that rewards consistency, just like good software.
@@ -178,7 +195,7 @@ Away from the terminal I'm usually **gardening**, **breeding**, or **cooking** �
 
 ### Let's connect.
 
-<a href="mailto:iggusti@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-iggusti%40gmail.com-0e75b6?style=for-the-badge&logo=maildotru&logoColor=white" /></a>
+<a href="mailto:iggusti@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-iggusti%40gmail.com-0e75b6?style=for-the-badge&logo=maildotru&logoColor=white" alt="Say hello by email" /></a>
 
 <sub>Thanks for stopping by — feel free to explore my repositories.</sub>
 
