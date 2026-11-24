@@ -34,48 +34,9 @@ I care about reusable components, readable TypeScript, and making sure what ship
 <!-- Professional work -->
 ## 💼 Professional Work
 
-<table>
-<tr>
-<td width="33%" valign="top" align="left">
-
-**🏛️ SOANG**  
-<sub>Angular · TypeScript</sub>
-
-Redevelopment of a legacy regulation and legal-document (SK) system.
-
-- Extracted reusable Angular components from monolithic templates
-- Refactored TypeScript utility and validation functions
-- Fixed lifecycle-hook ordering and `inject()` vs constructor DI issues
-- Resolved animation trigger and state-sync bugs
-
-</td>
-<td width="33%" valign="top" align="left">
-
-**📄 PenDok**  
-<sub>Next.js · MUI · TanStack Query</sub>
-
-E-Penelusuran Dokumen — a document and records-management system.
-
-- Built the Records module with a `view` / `edit` / `create` multi-mode form
-- Created a `useDownloadRecord` hook for file retrieval
-- Parallelized multi-file upload flows
-- Stack: Next.js, MUI, TanStack Query, Formik
-
-</td>
-<td width="33%" valign="top" align="left">
-
-**✉️ BaSO**  
-<sub>Angular</sub>
-
-Surat Online — internal letter circulation application.
-
-- Built the shared `app-letter-filter` component
-- Refactored notification and letter-status helper utilities
-- Diagnosed staging deployment issues: static asset MIME types, cookie/CORS
-
-</td>
-</tr>
-</table>
+| 🏛️ **SOANG**<br><sub>Angular · TypeScript</sub> | 📄 **PenDok**<br><sub>Next.js · MUI · TanStack Query</sub> | ✉️ **BaSO**<br><sub>Angular</sub> |
+| :--- | :--- | :--- |
+| Redevelopment of a legacy regulation and legal-document (SK) system.<br><br>• Extracted reusable Angular components from monolithic templates<br>• Refactored TypeScript utility and validation functions<br>• Fixed lifecycle-hook ordering and `inject()` vs constructor DI issues<br>• Resolved animation trigger and state-sync bugs | E-Penelusuran Dokumen — a document and records-management system.<br><br>• Built the Records module with a `view` / `edit` / `create` multi-mode form<br>• Created a `useDownloadRecord` hook for file retrieval<br>• Parallelized multi-file upload flows<br>• Stack: Next.js, MUI, TanStack Query, Formik | Surat Online — internal letter circulation application.<br><br>• Built the shared `app-letter-filter` component<br>• Refactored notification and letter-status helper utilities<br>• Diagnosed staging deployment issues: static asset MIME types, cookie/CORS |
 
 ---
 
@@ -171,16 +132,16 @@ Surat Online — internal letter circulation application.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=iggusti&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iggusti&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" alt="Top languages" />
+<img width="467" src="https://github-readme-stats.vercel.app/api?username=iggusti&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+<img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iggusti&layout=compact&theme=tokyonight&langs_count=10" alt="Top languages" />
 
 <br /><br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=iggusti&theme=tokyonight&hide_border=true" alt="Streak stats" />
+<img width="495" src="https://streak-stats.demolab.com/?user=iggusti&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=iggusti&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+<img width="880" src="https://github-readme-activity-graph.vercel.app/graph?username=iggusti&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
 
 </div>
 
